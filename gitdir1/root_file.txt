@@ -1,0 +1,11 @@
+total 28
+drwxr-x--- 3 victor victor 4096 May 14 18:50 .
+drwxr-xr-x 4 root   root   4096 May 14 16:22 ..
+-rw------- 1 victor victor  252 May 14 18:28 .bash_history
+-rw-r--r-- 1 victor victor  220 May 14 16:16 .bash_logout
+-rw-r--r-- 1 victor victor 3771 May 14 16:16 .bashrc
+drwx------ 2 victor victor 4096 May 14 16:17 .cache
+-rw-r--r-- 1 victor victor    0 May 14 16:17 .motd_shown
+-rw-r--r-- 1 victor victor  807 May 14 16:16 .profile
+-rw-r--r-- 1 victor victor    0 May 14 16:17 .sudo_as_admin_successful
+-rw-r--r-- 1 victor victor    0 May 14 18:56 root_file.txt
