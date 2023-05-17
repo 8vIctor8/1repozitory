@@ -1,3 +1,3 @@
-# CH1repozitory
-PROJECT_1 
+# 1repozitory
+Training   
 
