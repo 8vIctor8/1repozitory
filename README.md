@@ -1,2 +1,3 @@
-# 1repozitory
-skypro training very hard
+# CH1repozitory
+PROJECT_1 
+
